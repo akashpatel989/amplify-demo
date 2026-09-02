@@ -26,8 +26,8 @@ function App() {
       <main className="hero">
         <p className="eyebrow">AWS Amplify Demo</p>
         <h1>
-          Push code.<br />Watch it go live.
-        </h1>
+  Deployed live.<br />Right now, on stage.
+</h1>
         <p className="subtext">
           A live look at continuous deployment on AWS: every commit to{' '}
           <code>main</code> triggers an automatic build and deploy — no
