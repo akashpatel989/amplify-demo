@@ -26,7 +26,7 @@ function App() {
       <main className="hero">
         <p className="eyebrow">AWS Amplify Demo</p>
         <h1>
-  Deployed live.<br />Right now, on stage.
+   Demo.<br />AWS Amplifier.
 </h1>
         <p className="subtext">
           A live look at continuous deployment on AWS: every commit to{' '}
